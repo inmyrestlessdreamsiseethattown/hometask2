@@ -29,7 +29,7 @@ S = sqrt((a + b)^2 + c^2)
 
 ## Блок-схема
 
-![Блок-схема](block_scheme.png)
+block_scheme.drawio.png
 
 ## Код программы
 
